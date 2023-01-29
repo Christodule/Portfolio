@@ -21,7 +21,7 @@ const About = () => {
             <h3 className="mt-4">Je suis </h3>
             <h3 className="mb-4">Trader professionnel analyste financier et investisseur</h3>
             <p>
-           J'investi dans plusieurs marchés financiers notament ceux du forex (EUR/USD), les actions (Nasdaq100; CAC40; DAX30...) les matieres premieres (Or; petrole , brent...) mais aussi en tant qu'entrepreneur dans les domaines de l'elevage, et de lagriculture et de la musique!
+           investi dans plusieurs marchés financiers notament ceux du forex (EUR/USD), les actions (Nasdaq100; CAC40; DAX30...) les matieres premieres (Or; petrole , brent...) mais aussi en tant entrepreneur dans les domaines de elevage, et de lagriculture et de la musique!
             </p>
 
             <div className=" d-flex align-items-center gap-5">
