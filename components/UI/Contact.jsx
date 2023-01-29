@@ -14,7 +14,7 @@ const Contact = () => {
             <SectionSubtitle subtitle="Contact me" />
             <h3 className="mt-4 mb-4">Contactez-moi</h3>
             <p>
-             Pour vos analyses financieres  la gestion marketing ou la mise en place de votre business et pour la réalisation de vos projets d'entreprise.
+             Pour vos analyses financieres  la gestion marketing ou la mise en place de votre business et pour la réalisation de vos projets entreprise.
             </p>
 
             <ul className={`${classes.contact__info__list}`}>
