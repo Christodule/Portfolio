@@ -18,7 +18,7 @@ const Hero = () => {
               <h2 className="mt-3 mb-3">I&apos;m Clovis ZONGO</h2>
               <h5 className="mb-4">Entrepreneur</h5>
               <p>
-                 Burkinabé résident au CANADA evoluant dans le domaine des marchés financiers de l'agriculture et de l'elevage
+                 Burkinabé résident au CANADA evoluant dans le domaine des marchés financiers de agriculture et de elevage
               </p>
               <div className="mt-5">
                 <button className="primary__btn">
